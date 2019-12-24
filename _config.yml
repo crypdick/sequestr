@@ -38,25 +38,23 @@ features                                  :
     fontawesome_icon_name                 : brain
     
 
+  - title                                 : Scalable carbon sequestration
+    description                           : Industrial-scale deforestation must be countered with industrial scale reforestation.
+    fontawesome_icon_name                 : seedling
+    
   - title                                 : Continually learning systems
     description                           : Models audited by forestry experts and learns from past mistakes.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
 
-  - title                                 : Scalable carbon sequestration
-    description                           : Industrial-scale deforestation must be countered with industrial scale reforestation.
+  - title                                 : Fighting climate change
+    description                           : Climate change is an existential threat.
     fontawesome_icon_name                 : globe-africa
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Fighting ecological destruction
+    description                           : Restoring habitats to slow down the ongoing sixth mass extinction.
+    fontawesome_icon_name                 : frog
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
