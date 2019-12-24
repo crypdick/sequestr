@@ -34,14 +34,14 @@ youtube_username                          :
 features                                  :
 
   - title                                 : AI engineering
-    description                           : Enabling automated object detection and 3D motion planning using neural networks.
+    description                           : Enabling automated object detection and 3D motion planning using deep neural networks.
     fontawesome_icon_name                 : brain
     
 
   - title                                 : Scalable carbon sequestration
     description                           : Industrial-scale deforestation must be countered with industrial scale reforestation.
     fontawesome_icon_name                 : seedling
-    
+
   - title                                 : Continually learning systems
     description                           : Models audited by forestry experts and learns from past mistakes.
     fontawesome_icon_name                 : sync
@@ -56,9 +56,9 @@ features                                  :
     fontawesome_icon_name                 : frog
 
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Precision planting
+    description                           : Executing seeding plan using Dendra.io drones.
+    fontawesome_icon_name                 : map-marked-alt
 
 
 
